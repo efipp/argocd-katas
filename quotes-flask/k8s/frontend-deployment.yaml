@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     app: frontend
-  name: frontend
+  name: frontenddd
 spec:
   replicas: 2
   selector:
